@@ -1,8 +1,8 @@
 # MV-HybridImages-2021
-The Project 1 of Machine Vision courses in Shien-Ming Wu School  of SCUT, Oct/21.Refer to the CV courses of Cornell-CS5670.
+### 🎈如果对您有帮助的话，就点个star吧:P
+#### The Project 1 of Machine Vision courses in Shien-Ming Wu School  of SCUT, Oct/21.Refer to the CV courses of Cornell-CS5670.
+#### ❗❗❗Warning:代码仅供学习交流，请在引用处注明出处、作者、使用了MIT Licence，请勿直接作为作业提交。
 # Project 1: Hybrid Images
-
-
 ------
 
 ### Overview
